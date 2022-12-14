@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+body{
+    background-color: rgb(12, 201, 107);
+}
+h3,h4,h1{
+    color: rgb(226, 8, 55);
+}
